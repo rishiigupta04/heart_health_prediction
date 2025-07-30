@@ -7,8 +7,8 @@ st.set_page_config(page_title="Heart Stroke Predictor", page_icon="🫀", layout
 
 # Load assets
 model = joblib.load("LogisticR_heart.pkl")
-scaler = joblib.load("heart_scaler.pkl")
-expected_columns = joblib.load("heart_columns.pkl")
+scaler = joblib.load("scaler.pkl")
+expected_columns = joblib.load("columns.pkl")
 
 
 # --- Header ---
