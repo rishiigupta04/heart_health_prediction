@@ -6,9 +6,9 @@ import joblib
 st.set_page_config(page_title="Heart Stroke Predictor", page_icon="🫀", layout="centered")
 
 # Load assets
-model = joblib.load("pickle files\LogisticR_heart.pkl")
-scaler = joblib.load("pickle files\scaler.pkl")
-expected_columns = joblib.load("pickle files\columns.pkl")
+model = joblib.load("LogisticR_heart.pkl")
+scaler = joblib.load("heart_scaler.pkl")
+expected_columns = joblib.load("heart_columns.pkl")
 
 
 # --- Header ---
