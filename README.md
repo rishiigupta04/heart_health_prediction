@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Risk Predictor by Rishi Gupta
+# 🫀 Heart Disease Risk Predictor
 
 A professional-grade machine learning web app built using **Streamlit** that predicts the risk of heart disease based on a user's health metrics. This project combines data preprocessing, model training, and deployment in one end-to-end solution — designed for usability and clarity.
 
