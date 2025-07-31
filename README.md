@@ -12,7 +12,7 @@ A professional-grade machine learning web app built using **Streamlit** that pre
 
 ## 📌 Project Features
 
-- Clean, responsive UI with animated gradient background 🎨
+- Clean, responsive UI made with Streamlit using Python 🎨
 - Logistic Regression model trained on the UCI Heart Disease dataset
 - Real-time prediction based on user input
 - One-click deployable with Streamlit Cloud
